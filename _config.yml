@@ -2,8 +2,8 @@ title:              Clean Blog
 email:              abhijeetbiswas2212.ab@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://ab2212.github.io"
+baseurl:            ""
+url:                "https://ab2212.github.io/random123.github.io/"
 
 # Social Profiles
 twitter_username:   SBootstrap
