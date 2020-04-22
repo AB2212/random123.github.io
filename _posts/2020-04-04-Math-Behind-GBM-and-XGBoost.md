@@ -1,3 +1,11 @@
+---
+layout: post
+title: "GBM"
+subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
+date: 2017-10-26 23:45:13 -0400
+background: '/img/posts/01.jpg'
+---
+
 Many of you ML enthusiasts out there might have used boosting algorithms to get the best predictions (most of the time) on your data. In this blog post, I want to demystify how these algorithms work and how are they different from others. But why would anyone want to do the tough job of looking under the hood to understand the inner working? This post is for all the curious minds out there who want to learn and innovate new techniques to tackle unprecedented problems. Let’s get started!
 
 **Table of Content**
